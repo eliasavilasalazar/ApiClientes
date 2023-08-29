@@ -1,0 +1,12 @@
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\bin\Debug\net6.0\ApiClientes.Model.deps.json
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\bin\Debug\net6.0\ApiClientes.Model.dll
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\bin\Debug\net6.0\ApiClientes.Model.pdb
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ApiClientes.Model.csproj.AssemblyReference.cache
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ApiClientes.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ApiClientes.Model.AssemblyInfoInputs.cache
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ApiClientes.Model.AssemblyInfo.cs
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ApiClientes.Model.csproj.CoreCompileInputs.cache
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ApiClientes.Model.dll
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\refint\ApiClientes.Model.dll
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ApiClientes.Model.pdb
+C:\Users\elias.avila\source\repos\ApiClientes\ApiClientes.Model\obj\Debug\net6.0\ref\ApiClientes.Model.dll
